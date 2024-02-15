@@ -1,5 +1,5 @@
 uuid: b8cfab84-8195-4202-9ae1-60550c89c92d
-langcode: en-gb
+langcode: en
 status: true
 dependencies:
   theme:

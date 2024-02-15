@@ -1,6 +1,6 @@
 _core:
   default_config_hash: JZxkOo1FGbWpQdvRhlJwv1c2Vk5W7lB1WF6ryo2evc8
-langcode: en-gb
+langcode: en
 generator_directory: 'private://poc--drupal-static-export'
 css_directory: ''
 js_directory: ''

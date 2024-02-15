@@ -1,6 +1,6 @@
 _core:
   default_config_hash: CE6mp0IUq9iWxJDj4MR0oorToG2KJmsXHHnbstTFxys
-langcode: en-gb
+langcode: en
 favicon:
   mimetype: image/vnd.microsoft.icon
   path: core/profiles/demo_umami/themes/umami/favicon.ico
