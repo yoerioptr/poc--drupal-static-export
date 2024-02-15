@@ -23,8 +23,8 @@
         "drupal/core-recommended": "^10.2",
         "drupal/gin": "^3.0@RC",
         "drupal/gin_toolbar": "^1.0@RC",
-        "drupal/static_generator": "^2.0@alpha",
         "drupal/system_stream_wrapper": "^2.0",
+        "drupal/tome": "^1.12",
         "drush/drush": "^12.4",
         "symfony/config": "^6.4"
     },

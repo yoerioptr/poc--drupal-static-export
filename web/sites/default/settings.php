@@ -844,6 +844,7 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 # $settings['migrate_file_private_path'] = '';
 
 $settings['file_private_path'] = $app_root . '/../private';
+$settings['tome_static_directory'] = '../static/html';
 
 foreach (['settings.ddev.php', 'settings.local.php'] as $settings_include) {
   if (file_exists(__DIR__ . '/' . $settings_include)) {

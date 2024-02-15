@@ -1,0 +1,9 @@
+services:
+  static:
+    container_name: ddev-${DDEV_SITENAME}-static
+    hostname: poc--drupal-static-export-static
+    image: nginx:latest
+    ports:
+      - 8000:80
+    volumes:
+      - ./static/html:/usr/share/nginx/html
